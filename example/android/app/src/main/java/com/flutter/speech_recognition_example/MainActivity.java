@@ -1,4 +1,4 @@
-package com.flutter.speech_recognition_example;
+package com.flutter.speech_recognition;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

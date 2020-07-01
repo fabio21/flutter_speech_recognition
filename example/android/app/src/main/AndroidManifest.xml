@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.flutter.speech_recognition_example"
+    package="com.flutter.speech_recognition"
     android:versionCode="1"
     android:versionName="0.0.1">
 

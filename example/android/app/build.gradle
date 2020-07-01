@@ -15,7 +15,7 @@ apply plugin: 'com.android.application'
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
-    compileSdkVersion 25
+    compileSdkVersion 28
     buildToolsVersion '28.0.3'
 
     lintOptions {
@@ -23,12 +23,12 @@ android {
     }
 
     defaultConfig {
-        minSdkVersion 16
+        minSdkVersion 21
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.flutter.speech_recognition_example"
+        applicationId "com.flutter.speech_recognition"
     }
 
     buildTypes {
